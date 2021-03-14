@@ -61,3 +61,6 @@ crashlytics-build.properties
 PlayerMovement/Logs
 PlayerMovement/Library
 PlayerMovement/obj
+BasicGamePlay/Library
+BasicGamePlay/Logs
+BasicGamePlay/obj
